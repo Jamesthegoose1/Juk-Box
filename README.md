@@ -53,7 +53,7 @@
                                                                                                     
                                                                                                     
                                                                                                     
-# A Python AI for music production
+# A Python AI for music generation
 
                                                                                                     
                                                                                                     
